@@ -1,0 +1,8 @@
+@media only screen and (max-width: 768px) {
+    .userimage{
+        margin-top: 45px;
+    }
+    .contentinfo{
+        margin-top: 100px;
+    }
+}
